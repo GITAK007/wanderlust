@@ -1,0 +1,6 @@
+npm ERR! Missing script: "dev"
+npm ERR! 
+npm ERR! To see a list of scripts, run:
+npm ERR!   npm run
+
+npm ERR! A complete log of this run can be found in: /home/kalua/.npm/_logs/2024-04-10T09_29_41_740Z-debug-0.log
